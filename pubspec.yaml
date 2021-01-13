@@ -1,7 +1,7 @@
 name: flutter_barrage_widget
 description: 弹幕组件，支持点击暂停，显示头像，点击头像回调
 version: 0.0.1
-homepage:
+homepage: https://github.com/chenyun0910/flutter_barrage_widget
 
 environment:
   sdk: ">=2.6.0 <3.0.0"
